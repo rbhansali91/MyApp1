@@ -8,6 +8,6 @@ I've used the layout given by [*One Month Rails*](http://onemonthrails.com), an 
 
 I am currently a:
 
-	- Research Technologist in the 	Crispino Lab at 	Northwestern University Department of Medicine Division of Hematology/Oncology, Robert H. Lurie Comprehensive Cancer Center, and Lurie Children's Hospital
-	- Social Media Manager for the PreHealth Office at Washington University in St. Louis
-	- Medical Student at the University of Illinois College of Medicine
++ Research Technologist in the Crispino Lab at the Northwestern University Department of Medicine Division of Hematology/Oncology, Robert H. Lurie Comprehensive Cancer Center, and Lurie Children's Hospital
++ Social Media Manager for the PreHealth Office at Washington University in St. Louis
++ Medical Student at the University of Illinois College of Medicine
