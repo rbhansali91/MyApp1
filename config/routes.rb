@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   get "research" => "pages#research"
   get "publications" => "pages#publications"
   get "events" => "pages#events"
+  get "links" => "pages#links"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
