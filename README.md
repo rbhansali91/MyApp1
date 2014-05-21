@@ -7,7 +7,7 @@ I've used the layout given by [*One Month Rails*](http://onemonthrails.com), an 
 ----------------------------------------------------------------
 
 I am currently a:
-+ _Research Technologist_ in the Crispino Lab at the Northwestern University Department of Medicine Division of Hematology/Oncology, Robert H. Lurie Comprehensive Cancer Center, and Lurie Children's Hospital
++ _Research Technologist_ in the MyApp Lab at the Northwestern University Department of Medicine Division of Hematology/Oncology, Robert H. Lurie Comprehensive Cancer Center, and Lurie Children's Hospital
 + _Social Media Manager_ for the PreHealth Office at Washington University in St. Louis
 + _Medical Student_ at the University of Illinois College of Medicine
 
