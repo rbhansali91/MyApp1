@@ -1,10 +1,11 @@
 Rails.application.routes.draw do
+  devise_for :users
   root "pages#home"
   get "members" => "pages#members" # creates members_path
   get "contact" => "pages#contact" # creates contact_path
   get "research" => "pages#research"
   get "publications" => "pages#publications"
-  get "events" => "pages#events"
+  get "pictures" => "pages#pictures"
   get "links" => "pages#links"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
