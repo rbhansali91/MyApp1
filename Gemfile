@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.1.1'
 
+# Allows me to change root folder name
 gem 'rename'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
@@ -20,9 +21,9 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.2.4'
 
 # Use sqlite3 as the database for Active Record
-
 group :development, :test do |variable|
 	gem 'sqlite3'
 end
