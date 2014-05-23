@@ -10,6 +10,11 @@ $brand-primary:								#16a085;
 $jumbotron-bg:								#ecf0f1;
 $link-color:									blue;
 $btn-font-weight:							bold;
+// Set lg-screen size
+$screen-lg-min: 1200px;
+// this tells which screen size to use to start breaking on
+// will tell navbar when to collapse
+$grid-float-breakpoint: $screen-lg-min;
 
 @import 'bootstrap';
 
