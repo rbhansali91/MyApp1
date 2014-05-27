@@ -20,6 +20,10 @@ $grid-float-breakpoint: $screen-lg-min;
 
 p {text-indent: 30px;}
 
+.top-buffer { 
+  margin-top:20px; 
+}
+
 .btn-custom {
   background-color: hsl(264, 64%, 54%) !important;
   background-repeat: repeat-x;

@@ -26,7 +26,6 @@
         <li><%= link_to "Lab members", members_path %></li>
         <li><%= link_to "About our research", research_path %></li>
         <li><%= link_to "Recent publications", publications_path %></li>
-        <li><%= link_to "Pictures", pictures_path %></li>
       </ul>
       <!-- <form class="navbar-form navbar-left" role="search">
         <div class="form-group">
@@ -38,7 +37,8 @@
         <li><%= link_to "Other useful links", links_path %></li>
         <li><%= link_to "Contact us", contact_path %></li>
         <% if user_signed_in? %>
-         <li><%= link_to "Log out", destroy_user_session_path, method: :delete %></li>
+          <li><%= link_to "Account Settings", edit_user_registration_path %></li>
+          <li><%= link_to "Log out", destroy_user_session_path, method: :delete %></li>
         <% end %>
       </ul>
     </div><!-- /.navbar-collapse -->
