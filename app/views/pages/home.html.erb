@@ -1,14 +1,14 @@
 <div class="jumbotron center">
 	<h1 class="text-center">Welcome to the Crispino Lab home page!</h1>
 	<div class="top-buffer">
-		<p1>Thanks for visiting our site, which is still under construction.  But soon, you'll be able to see our lab members and bios, information about our research, and other interesting things about what goes on in our lab!</p1>
+		<h5>Thanks for visiting our site, which is still under construction.  But soon, you'll be able to see our lab members and bios, information about our research, and other interesting things about what goes on in our lab!</h5>
 	</div>
 	
 	<% if user_signed_in? %>
 	<% else %>
 			<div class="text-center">
 				<div class="top-buffer">
-					<p1><%= link_to "Lab members can sign in here", new_user_session_path, class: "btn btn-custom"%> <h2> or </h2><%= link_to "Sign up here", new_user_registration_path, class: "btn btn-custom"%></p1>
+					<h5><%= link_to "Lab members can sign in here", new_user_session_path, class: "btn btn-custom"%> <h2> or </h2><%= link_to "Sign up here", new_user_registration_path, class: "btn btn-custom"%></h5>
 				</div>
 			</div>
 	<% end %>
@@ -30,21 +30,21 @@
 			      <img src="http://placehold.it/1200x400" class="img-responsive" alt="...">
 			      <div class="carousel-caption">
     					<h3>Placeholder1</h3>
-    					<p1>Placeholder1</p1>
+    					<h5>Placeholder1</h5>
 			      </div>
 			    </div>
 			    <div class="item">
 			      <img src="http://placehold.it/1200x400" class="img-responsive" alt="...">
 			      <div class="carousel-caption">
     					<h3>Placeholder1</h3>
-    					<p1>Placeholder1</p1>
+    					<h5>Placeholder1</h5>
 			      </div>
 			    </div>
 			    <div class="item">
 			      <img src="http://placehold.it/1200x400" class="img-responsive" alt="...">
 			      <div class="carousel-caption">
     					<h3>Placeholder1</h3>
-    					<p1>Placeholder1</p1>
+    					<h5>Placeholder1</h5>
 			      </div>
 			    </div>
 			  </div>
